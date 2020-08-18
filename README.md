@@ -7,8 +7,9 @@ This project consists of classifying products using their text description into 
 ## Project Structure
 
 The project is structured into 2 parts:
-First part: Natural Language Processing: The preprocessing of the text and the vectorization of the words.
-Second part: Deep Learning classification: Different deep learning models take the vectorized results from the previous step and classify it into a certain category. 
+
+* First part: Natural Language Processing: The preprocessing of the text and the vectorization of the words.
+* Second part: Deep Learning classification: Different deep learning models take the vectorized results from the previous step and classify it into a certain category. 
 
 ## Code
 
